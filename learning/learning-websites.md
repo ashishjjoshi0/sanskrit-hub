@@ -10,6 +10,8 @@ sidebar_position: 10
 
 1. ### [Amarhasa](https://en.amarahasa.com/) – learn through stories
 
+1. ### [Sanskrit Gyan](https://sanskritgyan.com)
+
 1. ### [Acharya](http://www.acharya.gen.in:8080/sanskrit/new-lessons.php) — English medium
 
 1. ### [LearnSanskrit.org](https://learnsanskrit.org/sounds/vowels/)
@@ -59,3 +61,5 @@ sidebar_position: 10
 1. ### [Blog](https://learn-samskritam.blogspot.com/p/homepage.html) - for SB learners
 
 1. ### [स्वयंप्रभा](https://swayamprabha.gov.in/index.php/search)
+
+ 
